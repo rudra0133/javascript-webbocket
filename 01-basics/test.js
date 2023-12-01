@@ -6,3 +6,4 @@
 * Es6-Echma Script 6 (vanilla javascript) 
 */
 console.log("Namaste Dunia");
+Author -Rudra 
